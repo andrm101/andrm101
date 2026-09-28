@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Andrei Manoloiu, Data Analyst. Econometrics, causal inference and machine learning on EU regional data.">
+  <rect width="1280" height="320" fill="#081A2F"/>
+  <g stroke="#355C7D" stroke-opacity="0.22" stroke-width="1">
+    <path d="M0 80H1280M0 160H1280M0 240H1280"/>
+    <path d="M320 0V320M640 0V320M960 0V320"/>
+  </g>
+  <!-- flow path -->
+  <g fill="none" stroke="#14B8A6" stroke-width="3" stroke-linecap="square" stroke-linejoin="miter">
+    <path d="M640 240H800V160H960V80H1120V160H1280"/>
+    <path d="M800 240H1000V240" stroke-opacity="0.35"/>
+  </g>
+  <g fill="#081A2F" stroke="#14B8A6" stroke-width="3">
+    <rect x="792" y="232" width="16" height="16"/>
+    <rect x="952" y="152" width="16" height="16"/>
+    <rect x="1112" y="72" width="16" height="16"/>
+  </g>
+  <rect x="1112" y="72" width="16" height="16" fill="#14B8A6"/>
+  <!-- monogram -->
+  <g transform="translate(72 84)" fill="none" stroke="#F4F7FA" stroke-width="6" stroke-linejoin="miter">
+    <path d="M0 72V0H56M0 32H40"/>
+    <path d="M0 72H56" stroke="#14B8A6"/>
+  </g>
+  <text x="160" y="134" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="56" font-weight="700" letter-spacing="-1.5" fill="#F4F7FA">Andrei Manoloiu</text>
+  <text x="162" y="176" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="500" fill="#14B8A6">Data Analyst · LEGO Group</text>
+  <text x="162" y="216" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#F4F7FA" fill-opacity="0.8">Econometrics, causal inference and ML on EU regional data</text>
+  <text x="162" y="252" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#F4F7FA" fill-opacity="0.55">BSc Cybernetics · MSc Data Science, SDU · Kolding, Denmark</text>
+</svg>
